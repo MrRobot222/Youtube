@@ -8,5 +8,4 @@
 
      NOTE: This kinda browser get's it's update once 6 motnhs only
 
-So most of us don't know much and we let that it be. To get rid of this we need new brower, but as a hacker we never liked chrome (I think still some likes chrome). So we choose firefox and tor as our secured browser. It's hard to install firefox than any other browser in kali linux
-`But from now don't google and waste your time`
+#### So most of us don't know much and we let that it be. To get rid of this we need new brower, but as a hacker we never liked chrome (I think still some likes chrome). So we choose firefox and tor as our secured browser. It's hard to install firefox than any other browser in kali linux `But from now don't google and waste your time`
